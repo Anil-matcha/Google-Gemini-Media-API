@@ -6,6 +6,7 @@ Compare and call Google image, video, multimodal video, and speech generation en
 
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — open-source generative media application with multi-model workflows.
 - [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — API examples for another video-generation family.
+- [Nano-Banana-2.1-API](https://github.com/Anil-matcha/Nano-Banana-2.1-API) — Nano Banana 2.1 image generation and editing API guide with Python, JavaScript, and curl examples.
 
 ## Overview
 
